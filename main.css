@@ -1,0 +1,50 @@
+.weather_links {
+    width: 1140px;
+    margin: auto;
+}
+* {
+    font-family: Dingbats, sans-serif;
+    text-align: center;
+    }
+
+a {
+        font-size: 80px;
+   }
+
+a:link {
+    color: blue
+}
+a:visited {
+    color: deeppink
+}
+a:hover {
+    color: grey
+}
+p {
+    color: blueviolet;
+    font-size: 35px;
+}
+img {
+    border: 5px solid green;
+    border-radius: 45%;
+    padding: 10px;
+}
+.sinoptik {
+    text-align: left;
+    color: red;
+}
+.gismeteo {
+    text-align: left;
+    color: blue;
+}
+.meteoprog {
+    text-align: left;
+    color: yellow;
+}
+#text {
+    color: green;
+    font-size: 80px;
+}
+.test2 p {
+    font-weight: bold;
+}
